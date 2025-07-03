@@ -63,7 +63,7 @@ This dashboard was created as a personal portfolio project to demonstrate core s
 
 ## 📁 Project Files
 
-- [`HealthcareDashboard.pbix`](link-appears-here) – Main Power BI file  
+- [`HealthcareDashboard.pbix`](https://github.com/Sneha-273/Heathcare/blob/main/HEALTHCARE.pbix) – Main Power BI file  
 - Background image: Designed using LibreOffice Impress
 
 ---
