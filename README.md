@@ -53,7 +53,7 @@ This dashboard was created as a personal portfolio project to demonstrate core s
 
 > *Add your screenshots to this repo and update the file names below.*
 
-![Dashboard Overview](dashboard-overview.jpg)  
+![Dashboard Overview](https://github.com/Sneha-273/Heathcare/blob/main/First%20page%20with%20open.PNG)  
 *Main dashboard with billing visuals and satisfaction data.*
 
 ![Slicer Panel Open](slicer-panel.jpg)  
