@@ -56,7 +56,7 @@ This dashboard was created as a personal portfolio project to demonstrate core s
 ![Dashboard Overview](https://github.com/Sneha-273/Heathcare/blob/main/First%20page%20with%20open.PNG)  
 *Main dashboard with billing visuals and satisfaction data.*
 
-![Slicer Panel Open](slicer-panel.jpg)  
+![Slicer Panel Open](https://github.com/Sneha-273/Heathcare/blob/main/slicer%20page.PNG)  
 *Toggle filter panel with Race and Date filters.*
 
 ---
@@ -73,14 +73,9 @@ This dashboard was created as a personal portfolio project to demonstrate core s
 - Practiced end-to-end dashboard development in Power BI
 - Designed custom UX with bookmark navigation
 - Applied DAX logic for dynamic metrics
-- Built storytelling around real healthcare KPIs
+
 
 ---
 
-## 📌 Status
 
-> ✅ Completed & published  
-> 🔄 Future updates may include dynamic titles and tooltips for deeper storytelling
-
----
 
