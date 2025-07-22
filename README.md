@@ -51,7 +51,7 @@ This dashboard was created as a personal portfolio project to demonstrate core s
 ## 🎞️ Dashboard Preview 
 
 
-![WealthLens Static View]()
+![WealthLens Static View](https://github.com/Sneha-273/Heathcare/blob/main/HealthCare.gif)
 
 ---
 ## 📁 Project Files
