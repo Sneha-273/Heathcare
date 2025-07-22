@@ -48,6 +48,18 @@ This dashboard was created as a personal portfolio project to demonstrate core s
 | **Bookmarks + Buttons** | Created interactive UI experience |
 
 ---
+## 🎞️ Dashboard Preview 
+
+
+![WealthLens Static View](https://github.com/Sneha-273/WealthLens/blob/main/Finance.gif)
+
+---
+## 📁 Project Files
+
+- [`HealthcareDashboard.pbix`](https://github.com/Sneha-273/Heathcare/blob/main/HEALTHCARE.pbix) – Main Power BI file  
+- Background image: Designed using LibreOffice Impress
+
+---
 
 ## 📷 Screenshots
 
@@ -58,13 +70,6 @@ This dashboard was created as a personal portfolio project to demonstrate core s
 
 ![Slicer Panel Open](https://github.com/Sneha-273/Heathcare/blob/main/slicer%20page.PNG)  
 *Toggle filter panel with Race and Date filters.*
-
----
-
-## 📁 Project Files
-
-- [`HealthcareDashboard.pbix`](https://github.com/Sneha-273/Heathcare/blob/main/HEALTHCARE.pbix) – Main Power BI file  
-- Background image: Designed using LibreOffice Impress
 
 ---
 
